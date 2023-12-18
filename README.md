@@ -1,2 +1,2 @@
-# MachineLearning
-Rep for ML basics
+# AI Class
+Rep for ML basics from AI YangJae Hub
